@@ -9,3 +9,8 @@ Scalability is widely used to indicate the ability of hardware and software to d
 
 ## Strong Scaling 
 ![Table](https://github.com/meghalshah9531/High_Performance_Computing/blob/main/Images/Strong_Scaling.PNG) ![Graph](https://github.com/meghalshah9531/High_Performance_Computing/blob/main/Images/Graph_Strong_Scaling.PNG)
+
+
+## Weak Scaling 
+![Table](https://github.com/meghalshah9531/High_Performance_Computing/blob/main/Images/Weak_Scaling.PNG) ![Graph](https://github.com/meghalshah9531/High_Performance_Computing/blob/main/Images/Graph_Weak_Scaling.PNG)
+
