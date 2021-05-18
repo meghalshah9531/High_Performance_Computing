@@ -6,3 +6,5 @@ First of all, user must define total number of particles in the simulation box (
 
 # Scalability Tests  
 Scalability is widely used to indicate the ability of hardware and software to deliver greater computational power when the amount of resources is increased [[Source](https://www.kth.se/blogs/pdc/2018/11/scalability-strong-and-weak-scaling/)]. 
+
+## Strong Scaling 
